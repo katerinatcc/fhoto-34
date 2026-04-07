@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Скачать наше приложение (APK)</title>
+  <title> (APK)</title>
   <style>
     body { font-family: sans-serif; background: #f7f7f7; }
     .container { max-width: 400px; margin: 50px auto; background: #fff; border-radius: 8px; box-shadow: 0px 2px 8px #ccc; padding: 30px; text-align: center; }
@@ -12,10 +12,10 @@
 </head>
 <body>
   <div class="container">
-    <h1>Наше Android-приложение</h1>
-    <p>Скачайте файл APK и установите его на своём устройстве.</p>
+    <h1></h1>
+    <p>.</p>
     <a href="https://https://limewire.com/d/PD5sM#NP18Wg7MaX/apkfile.apk" class="btn" download>Скачать APK</a>
-    <p style="font-size:14px; color:gray;">Если возникли вопросы — напишите нам: <br><b>support@вашсайт.ру</b></p>
+    <p style="font-size:14px; color:gray;"></b></p>
   </div>
 </body>
 </html>
